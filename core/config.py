@@ -1,0 +1,4 @@
+"""Pydantic Settings (чтение .env)"""
+
+
+
